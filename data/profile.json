@@ -1,0 +1,31 @@
+{
+    "name": "Elva Puspita Wardani",
+    "description": "I am an active student at Politeknik Negeri Semarang majoring in Electronic Engineering, with a strong interest in working in the field of electronics. I am familiar with various applications such as Arduino IDE, MATLAB, and Lazarus. Known for being honest, disciplined, and able to work well in a team. I have participated in organizational activities and project experiences.",
+    "profileImage": "images/elva.png",
+    "email": "elvapuspita712@gmail.com",
+    "phone": "+62 (895) 374-575974",
+    "socialMedia": [
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/elvapuspita"
+        },
+        {
+            "platform": "Instagram",
+            "url": "https://instagram.com/_elvaapw"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/cvelv.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+    "skills": [
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 60},
+        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 60},
+	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 60},
+        {"name": "Web Programming", "icon": "fab fa-js", "level": 50},
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 80},
+	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 80},
+	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 65}
+    ]
+}
