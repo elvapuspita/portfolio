@@ -1,0 +1,16 @@
+[
+    {
+        "university": "Politeknik Negeri Semarang",
+		"logo": "images/polines-logo.png",
+        "major": "Bachelor of Applied Science in Electronics Engineering Technology",
+        "year": "2022 - 2026",
+        "description": "GPA 4.10 of 4.3; Belong to Biomedical and Embedded System (BEST) Laboratory under supervision of Prof. Lin Yuan-Hsiang (Taiwan Chief of Electronic); Lead with 1 IEEE conference paper and 1 prestigious regional symposium paper"
+    },
+    {
+        "university": "SMKN 7 Semarang",
+		"logo": "images/stemba.jpeg",
+        "major": "Electrical Engineering",
+        "year": "2018 - 2022",
+        "description": "GPA 3.41 of 4; Focusing on Biomedical Engineering and Microelectronic under advisory of Munawar Riyadi Ph. D.; Electronic Laboratory Coordinator in 2015; Outcome research with 2 IEEE conference paper"
+    }
+]
