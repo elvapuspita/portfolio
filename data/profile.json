@@ -20,10 +20,8 @@
 			"icon": "fas fa-file-pdf"
 	},
     "skills": [
-        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 60},
-        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 60},
-	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 60},
-        {"name": "Web Programming", "icon": "fab fa-js", "level": 50},
+        {"name": "Software Tools", "icon": "fas fa-desktop", "level": 60},
+        {"name": "Microcontroller Programming", "icon": "fab fa-js", "level": 60},
 	{"name": "Project Management", "icon": "fas fa-list-check", "level": 80},
 	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 80},
 	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 65}
