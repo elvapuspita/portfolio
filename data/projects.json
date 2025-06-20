@@ -3,7 +3,7 @@
         "title": "Smart Home Prototype based on ESP32 and IoT Technology",
         "year": "2024",
         "partner": "Microcontroller Project",
-        "role": "Hardware Integrator",
+        "role": "Assembler",
         "description": "Developed a smart home prototype by integrating multiple sensors and enabling real-time monitoring through the Blynk platform.",
         "image": "images/Projek1.jpg",
         "link": "https://belajarmikrokontroler2k23.blogspot.com/2024/06/prototype-smart-home-dengan-esp32.html"
@@ -16,12 +16,20 @@
         "description": "Developed a line follower robot capable of moving along a black line path using LDR (Light Dependent Resistor) sensors and LEDs to detect contrast between the line and the surface. The robot is designed to respond to light intensity changes to stay on track.",
         "image": "images/Projek2.jpg"
     },
-	{
+    {
         "title": "Arduino-Based Smart Health Monitoring System for the Elderly",
         "year": "2025",
         "partner": "Biomedical Electronics Project",
         "role": "Team Leader",
         "description": "Developed a Smart Health Monitoring System for elderly individuals using Arduino, integrating sensors to track body temperature, heart rate, and movement in real time, with results displayed on an LCD for easy local monitoring.",
         "image": "images/Projek3.jpg"
+    },
+	{
+        "title": "Security System with Password",
+        "year": "2023",
+        "partner": "Microcontroller Project",
+        "role": "Assembler",
+        "description": "Developed a password-protected door security system using the ATmega8535 microcontroller. The system features a keypad for password input, an LCD display for user interface, and an electric lock mechanism controlled by the microcontroller.",
+        "image": "images/Projek4.jpg"
     }
 ]
