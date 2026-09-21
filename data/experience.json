@@ -1,5 +1,12 @@
 [
     {
+        "company": "PT Xentronic Inovasi Indonesia",
+		"logo":"images/logomas.png",
+        "position": "Internship",
+        "year": "March 2026 - June 2026",
+        "description": "Assembled various types of batteries for medical devices, successfully completed the assembly of a 11.1V 4000mAh Li-Ion battery pack as a power source for the Biolight patient monitor."
+    },
+	{
         "company": "PT Mandala Adhiperkasa Sejati",
 		"logo":"images/logomas.png",
         "position": "Internship",
