@@ -70,6 +70,13 @@ h2{font-size:clamp(1.7rem,3.4vw,2.2rem);margin-bottom:28px}
 .tags{display:flex;flex-wrap:wrap;gap:8px;list-style:none;margin:0;padding:0}
 .tags li{font-size:.9rem;font-weight:600;color:var(--accent);background:#e1f1f2;padding:3px 10px;border-radius:999px}
 .card a.link{display:inline-block;margin-top:14px;font-weight:600}
+.acts{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:20px}
+.act{margin:0;background:var(--surface);border:1px solid var(--line);border-left:6px solid var(--accent);border-radius:4px;overflow:hidden}
+.act img{display:block;width:100%;aspect-ratio:7/5;object-fit:cover;border-bottom:1px solid var(--line)}
+.act figcaption{padding:14px 18px 16px}
+.act strong{display:block;font-family:var(--head);font-size:1.05rem;margin-bottom:2px}
+.act span{display:block;color:var(--muted);font-size:.95rem}
+.hint{color:var(--muted);margin:-12px 0 24px}
 .skills{display:grid;grid-template-columns:repeat(2,1fr);gap:20px 40px}
 .skills h3{font-size:1.1rem;margin-bottom:8px}
 .skills p{margin:0;color:var(--muted)}
@@ -97,6 +104,7 @@ footer{background:var(--ink);color:#b9c8d8;padding:24px 0;font-size:.95rem}
         <li><a href="#profil">Profil</a></li>
         <li><a href="#pendidikan">Pendidikan</a></li>
         <li><a href="#pengalaman">Pengalaman</a></li>
+        <li><a href="#kegiatan">Kegiatan</a></li>
         <li><a href="#proyek">Proyek</a></li>
         <li><a href="#keahlian">Keahlian</a></li>
         <li><a href="#kontak">Kontak</a></li>
@@ -172,7 +180,7 @@ footer{background:var(--ink);color:#b9c8d8;padding:24px 0;font-size:.95rem}
   <div class="wrap">
     <h2>Pengalaman kerja dan organisasi</h2>
     <div class="entry">
-      <div class="when">Mar 2026 - Jun 2026</div>
+      <div class="when">Mar 2026 - Jul 2026</div>
       <div>
         <h3>Production Intern</h3>
         <p class="org">PT Xentronic Inovasi Indonesia, Semarang. Manufaktur elektronika medis dan alat kesehatan.</p>
@@ -224,6 +232,25 @@ footer{background:var(--ink);color:#b9c8d8;padding:24px 0;font-size:.95rem}
           <li>Menjaga hubungan internal antaranggota.</li>
         </ul>
       </div>
+    </div>
+  </div>
+</section>
+
+<section id="kegiatan">
+  <div class="wrap">
+    <h2>Kepanitiaan dan kegiatan</h2>
+    <p class="hint">Klik sertifikat untuk melihat ukuran penuh.</p>
+    <div class="acts">
+      <figure class="act"><a href="images/kegiatan-polines-mengajar.jpg" target="_blank" rel="noopener"><img src="images/kegiatan-polines-mengajar.jpg" alt="Sertifikat panitia Polines Mengajar 2023/2024" loading="lazy"></a>
+        <figcaption><strong>Polines Mengajar 2023/2024</strong><span>Panitia, 29 Okt 2023 - 3 Feb 2024</span><span>BEM Politeknik Negeri Semarang</span></figcaption></figure>
+      <figure class="act"><a href="images/kegiatan-mangrove.jpg" target="_blank" rel="noopener"><img src="images/kegiatan-mangrove.jpg" alt="Sertifikat panitia Aksi Tanam Mangrove 2024" loading="lazy"></a>
+        <figcaption><strong>Aksi Tanam Mangrove 2024</strong><span>Panitia, 13 Januari 2024</span><span>BEM Politeknik Negeri Semarang</span></figcaption></figure>
+      <figure class="act"><a href="images/kegiatan-bakti-lingkungan.jpg" target="_blank" rel="noopener"><img src="images/kegiatan-bakti-lingkungan.jpg" alt="Sertifikat peserta Bakti Lingkungan Polines Mengabdi" loading="lazy"></a>
+        <figcaption><strong>Bakti Lingkungan Polines Mengabdi</strong><span>Peserta, 2 Desember 2023</span><span>BEM Politeknik Negeri Semarang</span></figcaption></figure>
+      <figure class="act"><a href="images/kegiatan-pelatihan-design.jpg" target="_blank" rel="noopener"><img src="images/kegiatan-pelatihan-design.jpg" alt="Sertifikat peserta Pelatihan Design Polines Mengabdi" loading="lazy"></a>
+        <figcaption><strong>Pelatihan Design Polines Mengabdi</strong><span>Peserta, 24 September 2023</span><span>BEM Politeknik Negeri Semarang</span></figcaption></figure>
+      <figure class="act"><a href="images/kegiatan-webinar-mental-health.jpg" target="_blank" rel="noopener"><img src="images/kegiatan-webinar-mental-health.jpg" alt="Sertifikat peserta Webinar Mental Health" loading="lazy"></a>
+        <figcaption><strong>Webinar Mental Health</strong><span>Peserta, 18 Maret 2023</span><span>BEM Politeknik Negeri Semarang</span></figcaption></figure>
     </div>
   </div>
 </section>
